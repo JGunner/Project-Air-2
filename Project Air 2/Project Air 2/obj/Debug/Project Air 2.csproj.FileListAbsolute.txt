@@ -1,0 +1,10 @@
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\bin\Debug\Project Air 2.exe.config
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\bin\Debug\Project Air 2.exe
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\bin\Debug\Project Air 2.pdb
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\obj\Debug\Project Air 2.csprojAssemblyReference.cache
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\obj\Debug\Project_Air_2.FrmCalc.resources
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\obj\Debug\Project_Air_2.Properties.Resources.resources
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\obj\Debug\Project Air 2.csproj.GenerateResource.cache
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\obj\Debug\Project Air 2.csproj.CoreCompileInputs.cache
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\obj\Debug\Project Air 2.exe
+C:\Users\Gunner\source\repos\Project Air 2\Project Air 2\obj\Debug\Project Air 2.pdb
